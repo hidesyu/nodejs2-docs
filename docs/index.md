@@ -2,4 +2,4 @@
 
 ## 目次
 
-- [Chapter1 についての補足](https://hidesyu.github.io/nodejs2-docs/chapter_1.md)
+- [Chapter1 についての補足](https://hidesyu.github.io/nodejs2-docs/chapter1)
